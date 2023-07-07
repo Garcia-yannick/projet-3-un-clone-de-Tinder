@@ -2,10 +2,6 @@
  
  * le lien du Projet : https://projet3clonedetinder.yannick-garcia-dev.com/
 
-<<<<<<< HEAD
   
-=======
-    le lien du Projet : https://projet3clonedetinder.yannick-garcia-dev.com
->>>>>>> 965f7d750c05d1a4dfee594c3320cfea7bbfc62c
 
     
